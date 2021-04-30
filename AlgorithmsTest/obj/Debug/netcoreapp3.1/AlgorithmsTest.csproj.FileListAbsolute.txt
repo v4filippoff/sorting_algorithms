@@ -1,0 +1,16 @@
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.exe
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.deps.json
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.runtimeconfig.json
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.runtimeconfig.dev.json
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.dll
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsTest.pdb
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.dll
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.pdb
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.genruntimeconfig.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsLib.dll
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\bin\Debug\netcoreapp3.1\AlgorithmsLib.pdb
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsTest\obj\Debug\netcoreapp3.1\AlgorithmsTest.csproj.CopyComplete

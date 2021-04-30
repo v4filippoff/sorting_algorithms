@@ -1,0 +1,9 @@
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\bin\Debug\netstandard2.0\AlgorithmsLib.deps.json
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\bin\Debug\netstandard2.0\AlgorithmsLib.dll
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\bin\Debug\netstandard2.0\AlgorithmsLib.pdb
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.dll
+C:\Users\Вадим\source\repos\AlgorithmsTest\AlgorithmsLib\obj\Debug\netstandard2.0\AlgorithmsLib.pdb
